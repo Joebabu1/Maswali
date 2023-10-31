@@ -52,7 +52,6 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 
 **Configuration**
 
-The program can be customized by modifying the code and configuration files. You can add additional question types, integrate with external data sources, or enhance the user interface.
 
 **Contribution**
 
