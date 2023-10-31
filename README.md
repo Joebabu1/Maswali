@@ -14,7 +14,7 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 4. Configuration
 5. Contribution
 
-**Features**
+**1. Features**
 
 •	It creates quizzes with multiple-choice questions.
 
@@ -32,11 +32,11 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 
 •	Contains a secure user authentication and authorization
 
-**Installation Prerequisites**
+**2. Installation Prerequisites**
 
 •	Python 3.x
 
-**Usage**
+**3. Usage**
 
 •	Use the CLI to create and manage quizzes.
 
@@ -50,9 +50,10 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 
 •	Securely authenticate users and track their quiz history.
 
-**Configuration**
+**4. Configuration**
 
+Will be added soon!
 
-**Contribution**
+**5. Contribution**
 
 Contributions to this project are welcome. Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
