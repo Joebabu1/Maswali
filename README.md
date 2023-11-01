@@ -4,7 +4,7 @@
 
 **Description**
 
-This MaswaliYote Python program (CLI) is a command-line simple system designed to create, manage, and take quizzes. It provides a straightforward way to define quiz questions, organize them into categories, and take quizzes with instant feedback on your performance. This is done in fulfillment of my Software Development course assignment.
+This MaswaliYote Python program (CLI) is a command-line simple system designed to create, manage, and take quizzes. It provides a straightforward way to define quiz questions, organize them into categories, and take quizzes with instant feedback on your performance. This is done in fulfillment of my Software Development course project.
 
 **Table of Contents**
 
