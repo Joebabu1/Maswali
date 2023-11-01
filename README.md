@@ -48,7 +48,6 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 
 •	Receive immediate feedback on your quiz performance.
 
-•	Securely authenticate users and track their quiz history.
 
 **4. Configuration**
 
@@ -56,4 +55,4 @@ Will be added soon!
 
 **5. Contribution**
 
-Contributions to this project are welcome. Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
+Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
