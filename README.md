@@ -59,6 +59,7 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 
    
 3. Component Diagram
+   
      ![image](https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce)
 
 
