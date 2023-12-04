@@ -1,14 +1,8 @@
-# MaswaliYote Quiz Management System
+# **MaswaliYote Quiz Management System**
 
-#### Developed by Joebabu1
+### Description
 
-**Description**
-
-This MaswaliYote Python program (CLI) is a command-line simple system designed to create, manage, and take quizzes. It provides a straightforward way to define quiz questions, organize them into categories, and take quizzes with instant feedback on your performance. This is done in fulfillment of my Software Development course project.
-
-**Table of Contents**
-
-
+This MaswaliYote Quiz System (CLI) is a command-line simple system designed to create, manage, and take quizzes. It provides a straightforward way to define quiz questions, organize them into categories, and take quizzes with instant feedback on your performance. This is done in fulfillment of my Software Development course project.
 
 ### 1. Features
 
@@ -88,3 +82,5 @@ Will be added soon!
 ### 8. Contribution
 
 Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
+
+  ##### Developed by Joebabu1 Consultants
