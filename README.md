@@ -18,7 +18,22 @@ e. Contains a secure user authentication and authorization
 
 ### 2. Installation Prerequisites
 
-• Python 3.x
++ Python 3.x
+
++ Virtual Environment (Optional)
+
+2.1 [Optional] Create and activate a virtual environment:
+
+          python -m venv venv
+          source venv/bin/activate   # On Windows, use 'venv\Scripts\activate'
+
+2.2 Running the Application
+
+Use the provided run_quiz_system.py script to run the MaswaliYote Quiz Management System:
+
+          python run_quiz_system.py
+
+Follow the on-screen instructions to navigate the system.
 
 ### 3. Functionality
 
@@ -75,11 +90,7 @@ iv. Take quizzes with customizable options.
 
 v. Receive immediate feedback on your quiz performance.
 
-### 7. Configuration
-
-Will be added soon!
-
-### 8. Contribution
+### 7. Contribution
 
 Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
 
