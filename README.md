@@ -23,8 +23,6 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 
 •	Contains an Admin interface for quiz creation and management.
 
-•	Employs randomized question order for fairness.
-
 •	Has the ability to view quiz results and correct answers.
 
 •	Has a User-friendly command-line interface.
@@ -38,16 +36,16 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 **3. Functionality**
 
 **Admin Module**
-1. Login: Administrators can securely log in using a username and password.
-2. Create Quiz: Admins can create a new quiz, adding questions and details.
-3. View Quiz: Admins can view details of existing quizzes.
-4. Update Quiz: Admins can modify existing quiz details or questions.
-5. Delete Quiz: Admins can delete a quiz.
+1. **Login:** Administrators can securely log in using a username and password.
+2. **Create Quiz:** Admins can create a new quiz, adding questions and details.
+3. **View Quiz:** Admins can view details of existing quizzes.
+4. **Update Quiz:** Admins can modify existing quiz details or questions.
+5. **Delete Quiz:** Admins can delete a quiz.
 
 **Student Module**
-1. Login: Students can securely log in using a username and password.
-2. Take Quiz: Students can select and answer questions from available quizzes.
-3. View Results: Students can view their quiz results.
+1. **Login:** Students can securely log in using a username and password.
+2. **Take Quiz:** Students can select and answer questions from available quizzes.
+3. **View Results:** Students can view their quiz results.
 
 **4. UML Diagrams**
 
