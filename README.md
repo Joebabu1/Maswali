@@ -8,16 +8,9 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 
 **Table of Contents**
 
-1. [Features](url)
-2. [Installation](url)
-3. [Functionality](url)
-4. [UML Diagrams](url)
-5. [Requirements Engineering](url)
-6. [Usage](url)
-7. [Configuration](url)
-8. [Contribution](url)
 
-**1. Features**
+
+### 1. Features
 
 a. It manages quizzes, including adding, editing, and deleting questions.
 
@@ -29,11 +22,11 @@ d. Has a User-friendly command-line interface.
 
 e. Contains a secure user authentication and authorization
 
-**2. Installation Prerequisites**
+### 2. Installation Prerequisites
 
 • Python 3.x
 
-**3. Functionality**
+### 3. Functionality
 
 **3.1 Admin Module**
 
@@ -55,7 +48,7 @@ e. Contains a secure user authentication and authorization
      
 3.2.3 **View Results:** Students can view their quiz results.
 
-**4. UML Diagrams**
+### 4. UML Diagrams
 
 **4.1 Class Diagram**:      ![image](https://github.com/Joebabu1/Maswali/assets/143649670/334aba21-a5c9-4684-8398-a613a46e2ec1)
 
@@ -69,14 +62,14 @@ e. Contains a secure user authentication and authorization
 **4.3 Component Diagram**:
 
 
-**5. Requirements Engineering**
+### 5. Requirements Engineering
 
 **5.1 Trello Link:**:    https://trello.com/invite/b/YG43aneu/ATTI362d0fcc4c53de6d0cdaf63116cefb236C2E5F72/maswaliyote-quiz-system
    
 **5.2 Airtable Link:** :         
 [https://airtable.com/invite/l?inviteId=invGe0k17nyQ8wQgg&inviteToken=e6fcaa08fd613577136573b4d90a62c34837a8767c7c51d1f7562a3e265f8a9e&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
 ](https://airtable.com/invite/l?inviteId=invGe0k17nyQ8wQgg&inviteToken=e6fcaa08fd613577136573b4d90a62c34837a8767c7c51d1f7562a3e265f8a9e&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)   
-**6. Usage**
+### 6. Usage
 
 i. Use the CLI to create and manage quizzes.
 
@@ -88,10 +81,10 @@ iv. Take quizzes with customizable options.
 
 v. Receive immediate feedback on your quiz performance.
 
-**7. Configuration**
+### 7. Configuration
 
 Will be added soon!
 
-**8. Contribution**
+### 8. Contribution
 
 Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
