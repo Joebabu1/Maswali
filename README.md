@@ -75,9 +75,8 @@ Follow the on-screen instructions to navigate the system.
 
 **5.1 Trello Link:**:    https://trello.com/invite/b/YG43aneu/ATTI362d0fcc4c53de6d0cdaf63116cefb236C2E5F72/maswaliyote-quiz-system
    
-**5.2 Airtable Link:** :         
-[https://airtable.com/invite/l?inviteId=invGe0k17nyQ8wQgg&inviteToken=e6fcaa08fd613577136573b4d90a62c34837a8767c7c51d1f7562a3e265f8a9e&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
-](https://airtable.com/invite/l?inviteId=invGe0k17nyQ8wQgg&inviteToken=e6fcaa08fd613577136573b4d90a62c34837a8767c7c51d1f7562a3e265f8a9e&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)   
+**5.2 Airtable Link:** :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
+
 ### 6. Usage
 
 i. Use the CLI to create and manage quizzes.
