@@ -8,14 +8,14 @@ This MaswaliYote Python program (CLI) is a command-line simple system designed t
 
 **Table of Contents**
 
-1. Features
-2. Installation
-3. Functionality
-4. UML Diagrams
-5. Requirements Engineering
-6. Usage
-7. Configuration
-8. Contribution
+1. [Features](url)
+2. [Installation](url)
+3. [Functionality](url)
+4. [UML Diagrams](url)
+5. [Requirements Engineering](url)
+6. [Usage](url)
+7. [Configuration](url)
+8. [Contribution](url)
 
 **1. Features**
 
@@ -73,8 +73,9 @@ e. Contains a secure user authentication and authorization
 
 **5.1 Trello Link:**:    https://trello.com/invite/b/YG43aneu/ATTI362d0fcc4c53de6d0cdaf63116cefb236C2E5F72/maswaliyote-quiz-system
    
-**5.2 Airtable Link:** :         [https://airtable.com/invite/l?  inviteId=invGe0k17nyQ8wQgg&inviteToken=e6fcaa08fd613577136573b4d90a62c34837a8767c7c51d1f7562a3e265f8a9e&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts]
-   
+**5.2 Airtable Link:** :         
+[https://airtable.com/invite/l?inviteId=invGe0k17nyQ8wQgg&inviteToken=e6fcaa08fd613577136573b4d90a62c34837a8767c7c51d1f7562a3e265f8a9e&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+](https://airtable.com/invite/l?inviteId=invGe0k17nyQ8wQgg&inviteToken=e6fcaa08fd613577136573b4d90a62c34837a8767c7c51d1f7562a3e265f8a9e&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)   
 **6. Usage**
 
 i. Use the CLI to create and manage quizzes.
