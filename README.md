@@ -77,7 +77,7 @@ Follow the on-screen instructions to navigate the system.
    
 **5.2 Airtable Link:** :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
 
-### 6. Usage
+### 6. Analysis of the Quiz System
 
 i. Use the CLI to create and manage quizzes.
 
