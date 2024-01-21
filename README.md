@@ -1,4 +1,4 @@
-# **MaswaliYote Quiz Management System**
+# **MaswaliYote Quiz Management System (MQMS)**
 
 ### Description
 
@@ -79,15 +79,8 @@ Follow the on-screen instructions to navigate the system.
 
 ### 6. Analysis of the Quiz System
 
-i. Use the CLI to create and manage quizzes.
+(https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce) 
 
-ii. Organize questions into categories and topics.
-
-iii. Define multiple-choice and true/false questions.
-
-iv. Take quizzes with customizable options.
-
-v. Receive immediate feedback on your quiz performance.
 
 ### 7. Contribution
 
