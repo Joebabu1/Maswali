@@ -72,17 +72,32 @@ Follow the on-screen instructions to navigate the system.
 
 
 ### 5. Requirements Engineering
-
-**5.1 Trello Link:**:    https://trello.com/invite/b/YG43aneu/ATTI362d0fcc4c53de6d0cdaf63116cefb236C2E5F72/maswaliyote-quiz-system
    
-**5.2 Airtable Link:** :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
+**5.1 Airtable Link:** :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
 
 ### 6. Analysis of the Quiz System
  
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Analysis%20Report%20-%20MQMS.pdf
 
+### 7. Domain-Driven Design (DDD)
 
-### 7. Contribution
+
+### 8. Metrics
+
+
+### 9. Clean Code Development
+
+
+### 10. Build Management and CI/CD
+
+
+### 11. Testing
+
+
+### 12. Functional Programming
+
+
+### 13. Contribution
 
 Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
 
