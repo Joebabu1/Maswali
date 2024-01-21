@@ -78,8 +78,8 @@ Follow the on-screen instructions to navigate the system.
 **5.2 Airtable Link:** :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
 
 ### 6. Analysis of the Quiz System
-
-(https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce) 
+ 
+https://github.com/Joebabu1/Maswali/blob/master/Docs/Analysis%20Report%20-%20MQMS.pdf
 
 
 ### 7. Contribution
