@@ -4,8 +4,8 @@
 
 This MaswaliYote Quiz System (CLI) is a command-line simple system designed to create, manage, and take quizzes. It provides a straightforward way to define quiz questions, organize them into categories, and take quizzes with instant feedback on your performance. This is done in fulfillment of my Software Development course project.
 
-### 1. Features
-
+### 1. Git
+Git and GitHub has been used throughout this project. 
 
 ### 2. Installation Prerequisites
 
@@ -64,6 +64,7 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screen
 
 ### 11. Testing
 
+https://github.com/Joebabu1/Maswali/blob/master/unittest.py
 
 ### 12. Functional Programming
 
