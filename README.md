@@ -59,16 +59,14 @@ Follow the on-screen instructions to navigate the system.
 
 ### 4. UML Diagrams
 
-**4.1 Class Diagram**:      (https://github.com/Joebabu1/Maswali/assets/143649670/334aba21-a5c9-4684-8398-a613a46e2ec1)
+**4.1 Class Diagram**:      
+https://github.com/Joebabu1/Maswali/assets/143649670/334aba21-a5c9-4684-8398-a613a46e2ec1
 
+ **4.2 Activity Diagram**:    
+ https://github.com/Joebabu1/Maswali/assets/143649670/905ace15-94f7-4c2d-b424-43104d52f7cb
 
- (https://github.com/Joebabu1/Maswali/assets/143649670/905ace15-94f7-4c2d-b424-43104d52f7cb)
-**4.2 Activity Diagram**:    
-
-
-
-![image](https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce) 
-**4.3 Component Diagram**:
+**4.3 Component Diagram**: 
+https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce
 
 
 ### 5. Requirements Engineering
