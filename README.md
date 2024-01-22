@@ -26,28 +26,6 @@ Use the provided run_quiz_system.py script to run the MaswaliYote Quiz Managemen
 
 Follow the on-screen instructions to navigate the system.
 
-### 3. Functionality
-
-**3.1 Admin Module**
-
-3.1.1 **Login:** Administrators can securely log in using a username and password.
-     
-3.1.2 **Create Quiz:** Admins can create a new quiz, adding questions and details.
-     
-3.1.3 **View Quiz:** Admins can view details of existing quizzes.
-     
-3.1.4 **Update Quiz:** Admins can modify existing quiz details or questions.
-     
-3.1.5 **Delete Quiz:** Admins can delete a quiz.
-
-**3.2 Student Module**
-
-3.2.1 **Login:** Students can securely log in using a username and password.
-     
-3.2.2 **Take Quiz:** Students can select and answer questions from available quizzes.
-     
-3.2.3 **View Results:** Students can view their quiz results.
-
 ### 4. UML Diagrams
 
 **4.1 Class Diagram**:      
