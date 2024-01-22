@@ -6,15 +6,6 @@ This MaswaliYote Quiz System (CLI) is a command-line simple system designed to c
 
 ### 1. Features
 
-a. It manages quizzes, including adding, editing, and deleting questions.
-
-b. Contains an Admin interface for quiz creation and management.
-
-c. Has the ability to view quiz results and correct answers.
-
-d. Has a User-friendly command-line interface.
-
-e. Contains a secure user authentication and authorization
 
 ### 2. Installation Prerequisites
 
