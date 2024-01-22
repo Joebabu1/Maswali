@@ -1,0 +1,35 @@
+@startuml
+!define ADMIN_SYSTEM component {
+  [Admin Module]
+}
+
+!define STUDENT_SYSTEM component {
+  [Student Module]
+}
+
+!define DATABASE_SYSTEM component {
+  [Database]
+}
+
+!define ENCRYPTION_SYSTEM component {
+  [Encryption Module]
+}
+
+!define MAIN_SYSTEM component {
+  [Quiz System]
+}
+
+ADMIN_SYSTEM -[hidden]-> ENCRYPTION_SYSTEM : Uses
+STUDENT_SYSTEM -[hidden]-> ENCRYPTION_SYSTEM : Uses
+
+MAIN_SYSTEM --> ADMIN_SYSTEM : Uses
+MAIN_SYSTEM --> STUDENT_SYSTEM : Uses
+MAIN_SYSTEM --> DATABASE_SYSTEM : Uses
+
+DATABASE_SYSTEM -[hidden]-> ENCRYPTION_SYSTEM : Uses
+
+ADMIN_SYSTEM --> MAIN_SYSTEM : Uses
+STUDENT_SYSTEM --> MAIN_SYSTEM : Uses
+DATABASE_SYSTEM --> MAIN_SYSTEM : Uses
+ENCRYPTION_SYSTEM --> MAIN_SYSTEM : Uses
+@enduml
