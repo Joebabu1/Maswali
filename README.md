@@ -6,6 +6,7 @@ This MaswaliYote Quiz System (CLI) is a command-line simple system designed to c
 
 ### 1. Git
 Git and GitHub has been used throughout this project. 
+
 Find Commit history here: https://github.com/Joebabu1/Maswali/commits
 
 ### 2. Installation Prerequisites
@@ -27,51 +28,51 @@ Use the provided run_quiz_system.py script to run the MaswaliYote Quiz Managemen
 
 Follow the on-screen instructions to navigate the system.
 
-### 4. UML Diagrams
+### 3. UML Diagrams
 
-**4.1 Class Diagram**:      
+**3.1 Class Diagram**:      
 https://github.com/Joebabu1/Maswali/assets/143649670/334aba21-a5c9-4684-8398-a613a46e2ec1
 
- **4.2 Activity Diagram**:    
+ **3.2 Activity Diagram**:    
  https://github.com/Joebabu1/Maswali/assets/143649670/905ace15-94f7-4c2d-b424-43104d52f7cb
 
-**4.3 Component Diagram**: 
+**3.3 Component Diagram**: 
 https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce
 
 
-### 5. Requirements Engineering
+### 4. Requirements Engineering
    
-**5.1 Airtable Link:** :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
+** Airtable Link:** :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
 
-### 6. Analysis of the Quiz System
+### 5. Analysis of the Quiz System
  
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Analysis%20Report%20-%20MQMS.pdf
 
-### 7. Domain-Driven Design (DDD)
+### 6. Domain-Driven Design (DDD)
 
 https://github.com/Joebabu1/Maswali/blob/master/Docs/DDD%20Report%20-%20MaswaliYote%20Quiz%20Management%20System.pdf
 
-### 8. Metrics
+### 7. Metrics
 
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf 
 
-### 9. Clean Code Development
+### 8. Clean Code Development
 
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Development%20Report.pdf
 
-### 10. Build Management and CI/CD
+### 9. Build Management and CI/CD
 
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf
 
-### 11. Testing
+### 10. Testing
 
 https://github.com/Joebabu1/Maswali/blob/master/unittest.py
 
-### 12. Functional Programming
+### 11. Functional Programming
 
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Functional%20programming%20-%20MQMS.pdf
 
-### 13. Contribution
+### 12. Contribution
 
 Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
 
