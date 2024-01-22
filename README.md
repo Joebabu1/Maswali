@@ -81,21 +81,26 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Analysis%20Report%20-%20MQM
 
 ### 7. Domain-Driven Design (DDD)
 
+https://github.com/Joebabu1/Maswali/blob/master/Docs/DDD%20Report%20-%20MaswaliYote%20Quiz%20Management%20System.pdf
 
 ### 8. Metrics
 
+https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf 
 
 ### 9. Clean Code Development
 
+https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Development%20Report.pdf
 
 ### 10. Build Management and CI/CD
 
+https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf
 
 ### 11. Testing
 
 
 ### 12. Functional Programming
 
+https://github.com/Joebabu1/Maswali/blob/master/Docs/Functional%20programming%20-%20MQMS.pdf
 
 ### 13. Contribution
 
