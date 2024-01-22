@@ -59,10 +59,10 @@ Follow the on-screen instructions to navigate the system.
 
 ### 4. UML Diagrams
 
-**4.1 Class Diagram**:      ![image](https://github.com/Joebabu1/Maswali/assets/143649670/334aba21-a5c9-4684-8398-a613a46e2ec1)
+**4.1 Class Diagram**:      (https://github.com/Joebabu1/Maswali/assets/143649670/334aba21-a5c9-4684-8398-a613a46e2ec1)
 
 
- ![image](https://github.com/Joebabu1/Maswali/assets/143649670/905ace15-94f7-4c2d-b424-43104d52f7cb)
+ (https://github.com/Joebabu1/Maswali/assets/143649670/905ace15-94f7-4c2d-b424-43104d52f7cb)
 **4.2 Activity Diagram**:    
 
 
