@@ -1,0 +1,18 @@
+@startuml
+[*] --> User
+
+User --> Administrator : Admin Login
+Administrator --> QuizSystem : Admin Menu
+QuizSystem --> Administrator : Create Quiz
+Administrator --> QuizSystem : Manage Users
+Administrator --> QuizSystem : View Quiz
+Administrator --> QuizSystem : Update Quiz
+Administrator --> QuizSystem : Delete Quiz
+Administrator --> QuizSystem : Logout
+QuizSystem --> Database : CRUD Operations
+
+User --> Student : Student Login
+Student --> QuizSystem : Answer Quiz
+Student --> QuizSystem : View Results
+QuizSystem --> Database : Retrieve Quiz and Results
+@enduml
