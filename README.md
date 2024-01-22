@@ -37,8 +37,8 @@ https://github.com/Joebabu1/Maswali/assets/143649670/334aba21-a5c9-4684-8398-a61
  https://github.com/Joebabu1/Maswali/assets/143649670/905ace15-94f7-4c2d-b424-43104d52f7cb
 
 **3.3 Component Diagram**: 
-https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce
 
+https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce
 
 ### 4. Requirements Engineering
    
