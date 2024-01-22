@@ -6,6 +6,7 @@ This MaswaliYote Quiz System (CLI) is a command-line simple system designed to c
 
 ### 1. Git
 Git and GitHub has been used throughout this project. 
+Find Commit history here: https://github.com/Joebabu1/Maswali/commits
 
 ### 2. Installation Prerequisites
 
