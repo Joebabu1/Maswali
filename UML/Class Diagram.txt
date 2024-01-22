@@ -1,0 +1,27 @@
+@startuml
+class User
+class Administrator
+class Student
+class QuizSystem {
+  - database: Database
+}
+class Database {
+  + get_quizzes()
+  + add_quiz()
+  + get_student_results()
+  + add_student_result()
+  + get_users()
+  + add_user()
+  + find_user_index()
+  + update_user()
+  + save_data()
+  + load_data()
+}
+
+User --> Administrator
+User --> Student
+User --> QuizSystem
+QuizSystem --> Database : Uses
+Administrator --> Database : Uses
+Student --> Database : Uses
+@enduml
