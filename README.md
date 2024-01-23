@@ -29,16 +29,12 @@ Use the provided run_quiz_system.py script to run the MaswaliYote Quiz Managemen
 Follow the on-screen instructions to navigate the system.
 
 ### 3. UML Diagrams
+  
+--> [Class Diagram](https://github.com/Joebabu1/Maswali/assets/143649670/334aba21-a5c9-4684-8398-a613a46e2ec1)
 
-**3.1 Class Diagram**:      
-https://github.com/Joebabu1/Maswali/assets/143649670/334aba21-a5c9-4684-8398-a613a46e2ec1
-
- **3.2 Activity Diagram**:    
- https://github.com/Joebabu1/Maswali/assets/143649670/905ace15-94f7-4c2d-b424-43104d52f7cb
-
-**3.3 Component Diagram**: 
-
-https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce
+--> [Activity Diagram](https://github.com/Joebabu1/Maswali/assets/143649670/905ace15-94f7-4c2d-b424-43104d52f7cb)
+ 
+--> [Component Diagram](https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce)
 
 ### 4. Requirements Engineering
    
@@ -58,10 +54,18 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screen
 
 ### 8. Clean Code Development
 
-Example from the code: https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Development%20Report.pdf
+--> [Single Responsibility Principle](https://github.com/Joebabu1/Maswali/blob/fc79e03861d61abd36ee15cc94e7312779058b3e/database.py#L48)
+ 
+--> [Parameters and return types](https://github.com/Joebabu1/Maswali/blob/c1b7b00cff33888b47d783fb5b5a4362ad90a22b/database.py#L44)
+
+--> [Meaniful Variable Name](https://github.com/Joebabu1/Maswali/blob/c1b7b00cff33888b47d783fb5b5a4362ad90a22b/database.py#L51)
+
+--> [Consitent code formatting](https://github.com/Joebabu1/Maswali/blob/fc79e03861d61abd36ee15cc94e7312779058b3e/admin_module.py#L104C1-L105C37)
+
+--> [More on Clean Code......](https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Development%20Report.pdf)
 
 
-Click here for Clean Code Cheatsheet: https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Cheatsheet.pdf
+++++ [Click here for Clean Code Cheatsheet:](https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Cheatsheet.pdf)
 
 ### 9. Build Management and CI/CD
 
