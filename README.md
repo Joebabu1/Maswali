@@ -98,4 +98,7 @@ You can run tests manually with:
 
 Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
 
+### Please Note: 
+++++Some software used for this project are proprietory hence evaluation versions of the same have been utilised which are bound to a certain period of operation after download and installation.
+
  
