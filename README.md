@@ -7,7 +7,7 @@ This MaswaliYote Quiz System (CLI) is a command-line simple system designed to c
 ### 1. Git
 Git and GitHub has been used throughout this project. 
 
-Find Commit history here: https://github.com/Joebabu1/Maswali/commits
+[Find Commit history here:](https://github.com/Joebabu1/Maswali/commits)
 
 ### 2. Installation Prerequisites
 
@@ -37,12 +37,13 @@ Follow the on-screen instructions to navigate the system.
 --> [Component Diagram](https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b5692b23cfce)
 
 ### 4. Requirements Engineering
-   
-Airtable Link :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
+
+This was done using Airtable. [Click here to view](https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx)
 
 ### 5. Analysis of the Quiz System
- 
-https://github.com/Joebabu1/Maswali/blob/master/Docs/Analysis%20Report%20-%20MQMS.pdf
+
+ This analysis report provides a snapshot of MaswaliYote Quiz System's current state and suggests areas for future consideration and enhancement.
+[Click here to read ](https://github.com/Joebabu1/Maswali/blob/master/Docs/Analysis%20Report%20-%20MQMS.pdf)
 
 ### 6. Domain-Driven Design (DDD)
 
