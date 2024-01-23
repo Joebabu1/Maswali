@@ -17,14 +17,14 @@ Find Commit history here: https://github.com/Joebabu1/Maswali/commits
 
 2.1 [Optional] Create and activate a virtual environment:
 
-          python -m venv venv
+          python3 -m venv venv
           source venv/bin/activate   # On Windows, use 'venv\Scripts\activate'
 
 2.2 Running the Application
 
 Use the provided run_quiz_system.py script to run the MaswaliYote Quiz Management System:
 
-          python run_quiz_system.py
+          python3 run_quiz_system.py
 
 Follow the on-screen instructions to navigate the system.
 
@@ -42,7 +42,7 @@ https://github.com/Joebabu1/Maswali/assets/143649670/a4f38899-b326-4edb-b968-b56
 
 ### 4. Requirements Engineering
    
-** Airtable Link:** :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
+Airtable Link :     https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx
 
 ### 5. Analysis of the Quiz System
  
@@ -76,6 +76,7 @@ Unit Tests will be executed automatically with every push to respository with Je
 Find test file here: https://github.com/Joebabu1/Maswali/blob/master/unittest.py
 
 You can run tests manually with: 
+
           python3 -m unittest -v src/unittest.py
 
 ### 11. Functional Programming
