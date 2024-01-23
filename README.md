@@ -52,8 +52,8 @@ Developers own creation of event storming and DDD. [Click here](https://github.c
 
 ### 7. Metrics
 
-SonarQube was used to do metrics and testing for this project. It was added to jenkins and excuted after project loads from GitHub to Jenkins. Here are some of the screenshoots from SonarQube Dashboard
-https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf 
+SonarQube was used to do metrics and testing for this project. It was integrated to jenkins and excuted after project loads from GitHub to Jenkins. Here are some of the [screenshoots from SonarQube Dashboard](https://github.com/Joebabu1/Maswali/blob/master/Docs/SonarQube%20Screenshots%20for%20MaswaliYote%20Quiz%20Management%20System.pdf)
+
 
 ### 8. Clean Code Development
 
@@ -72,7 +72,7 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screen
 
 ### 9. Build Management and CI/CD
 
-Jenkins was used for Continuous Integration and Continuous Development (CICD). You can view some screenshots [here](https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf)
+Jenkins was used for Continuous Integration and Continuous Development (CICD). You can view [some screenshots here](https://github.com/Joebabu1/Maswali/blob/master/Docs/Jenkins%20-%20MaswaliYote%20Quiz%20Management%20System.pdf)
 
 ### 10. Testing
 
