@@ -73,9 +73,10 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screen
 
 Unit Tests will be executed automatically with every push to respository with Jenkins actions.
 
-You can run tests manually with: python3 -m unittest -v src/unittest.py
+Find test file here: https://github.com/Joebabu1/Maswali/blob/master/unittest.py
 
-https://github.com/Joebabu1/Maswali/blob/master/unittest.py
+You can run tests manually with: 
+                    python3 -m unittest -v src/unittest.py
 
 ### 11. Functional Programming
 
