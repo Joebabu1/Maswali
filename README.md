@@ -72,7 +72,7 @@ SonarQube was used to do metrics and testing for this project. It was integrated
 
 ### 9. Build Management and CI/CD
 
-Jenkins was used for Continuous Integration and Continuous Development (CICD). You can view [some screenshots here](https://github.com/Joebabu1/Maswali/blob/master/Docs/Jenkins%20-%20MaswaliYote%20Quiz%20Management%20System.pdf)
+Jenkins was used for Continuous Integration and Continuous Development (CICD). Code is pushed from GitHub through the help of webhook configuration. You can view [some screenshots here](https://github.com/Joebabu1/Maswali/blob/master/Docs/Jenkins%20-%20MaswaliYote%20Quiz%20Management%20System.pdf)
 
 ### 10. Testing
 
