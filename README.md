@@ -47,10 +47,12 @@ This was done using Airtable. [Click here to view](https://airtable.com/appVk1hP
 
 ### 6. Domain-Driven Design (DDD)
 
-https://github.com/Joebabu1/Maswali/blob/master/Docs/DDD%20-%20MaswaliYote%20Quiz%20Management%20System.pdf
+Developers own creation of event storming and DDD. [Click here](https://github.com/Joebabu1/Maswali/blob/master/Docs/DDD%20-%20MaswaliYote%20Quiz%20Management%20System.pdf) for the .pdf
+
 
 ### 7. Metrics
 
+SonarQube was used to do metrics and testing for this project. It was added to jenkins and excuted after project loads from GitHub to Jenkins. Here are some of the screenshoots from SonarQube Dashboard
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf 
 
 ### 8. Clean Code Development
@@ -70,15 +72,11 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screen
 
 ### 9. Build Management and CI/CD
 
-Jenkins was used for Continuous Integration and Continuous Development (CICD)
-
-https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf
+Jenkins was used for Continuous Integration and Continuous Development (CICD). You can view some screenshots [here](https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf)
 
 ### 10. Testing
 
-Unit Tests will be executed automatically with every push to respository with Jenkins actions.
-
-Find test file here: https://github.com/Joebabu1/Maswali/blob/master/unittest.py
+Unit Tests will be executed automatically with every push to respository with Jenkins actions. Find [test file here:](https://github.com/Joebabu1/Maswali/blob/master/unittest.py)
 
 You can run tests manually with: 
 
