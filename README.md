@@ -76,7 +76,7 @@ Unit Tests will be executed automatically with every push to respository with Je
 Find test file here: https://github.com/Joebabu1/Maswali/blob/master/unittest.py
 
 You can run tests manually with: 
-                    python3 -m unittest -v src/unittest.py
+          python3 -m unittest -v src/unittest.py
 
 ### 11. Functional Programming
 
