@@ -81,7 +81,9 @@ You can run tests manually with:
 
 ### 11. Functional Programming
 
-[Immutability]([url](https://github.com/Joebabu1/Maswali/blob/f8205ef709650a06341ebd036a54a8ff87eb7b84/quiz_system.py#L37C1-L38C1))
+[Immutability](https://github.com/Joebabu1/Maswali/blob/f8205ef709650a06341ebd036a54a8ff87eb7b84/quiz_system.py#L37C1-L38C1)
+
+[vvvbbbb](https://github.com/Joebabu1/Maswali/blob/f8205ef709650a06341ebd036a54a8ff87eb7b84/quiz_system.py#L37C1-L38C1)
 
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Functional%20programming%20-%20MQMS.pdf
 
