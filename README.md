@@ -94,9 +94,6 @@ You can run tests manually with:
 
 -> [Only final data structures](https://github.com/Joebabu1/Maswali/blob/c1b7b00cff33888b47d783fb5b5a4362ad90a22b/database.py#L6)
 
-### 12. Contribution
-
-Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
 
 ### Please Note: 
 ++++Some software used for this project are proprietory hence evaluation versions of the same have been utilised which are bound to a certain period of operation after download and installation.
