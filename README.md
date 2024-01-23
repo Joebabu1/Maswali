@@ -81,11 +81,15 @@ You can run tests manually with:
 
 ### 11. Functional Programming
 
-[Immutability](https://github.com/Joebabu1/Maswali/blob/f8205ef709650a06341ebd036a54a8ff87eb7b84/quiz_system.py#L37C1-L38C1)
+-> [Immutability](https://github.com/Joebabu1/Maswali/blob/f8205ef709650a06341ebd036a54a8ff87eb7b84/quiz_system.py#L37C1-L38C1)
 
-[vvvbbbb](https://github.com/Joebabu1/Maswali/blob/f8205ef709650a06341ebd036a54a8ff87eb7b84/quiz_system.py#L37C1-L38C1)
+-> [List Comprehensions](https://github.com/Joebabu1/Maswali/blob/c1b7b00cff33888b47d783fb5b5a4362ad90a22b/admin_module.py#L112C1-L112C50)
 
-https://github.com/Joebabu1/Maswali/blob/master/Docs/Functional%20programming%20-%20MQMS.pdf
+-> [Higher-order Functions](https://github.com/Joebabu1/Maswali/blob/c1b7b00cff33888b47d783fb5b5a4362ad90a22b/student_module.py#L30)
+
+-> [Using itertools](https://github.com/Joebabu1/Maswali/blob/c1b7b00cff33888b47d783fb5b5a4362ad90a22b/admin_module.py#L76)
+
+-> [Only final data structures](https://github.com/Joebabu1/Maswali/blob/c1b7b00cff33888b47d783fb5b5a4362ad90a22b/database.py#L6)
 
 ### 12. Contribution
 
