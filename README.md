@@ -60,6 +60,8 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screen
 
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Development%20Report.pdf
 
+Click here for Clean Code Cheatsheet: https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Cheatsheet.pdf
+
 ### 9. Build Management and CI/CD
 
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf
