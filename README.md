@@ -98,4 +98,4 @@ You can run tests manually with:
 
 Please check the 'Contribute.md' file for guidelines on how to contribute to the project.
 
-  ##### Developed by Joebabu1 Consultants
+ 
