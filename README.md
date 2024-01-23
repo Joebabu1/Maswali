@@ -38,7 +38,7 @@ Follow the on-screen instructions to navigate the system.
 
 ### 4. Requirements Engineering
 
-This was done using Airtable. [Click here to view](https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx)
+Requirements specification was done with the help of Airtable. [Click here to view](https://airtable.com/appVk1hPphTm997MN/shrhSsRi2hW5Xz6Qx)
 
 ### 5. Analysis of the Quiz System
 
