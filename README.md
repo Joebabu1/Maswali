@@ -50,7 +50,7 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Analysis%20Report%20-%20MQM
 
 ### 6. Domain-Driven Design (DDD)
 
-https://github.com/Joebabu1/Maswali/blob/master/Docs/DDD%20Report%20-%20MaswaliYote%20Quiz%20Management%20System.pdf
+https://github.com/Joebabu1/Maswali/blob/master/Docs/DDD - MaswaliYote Quiz Management System.pdf
 
 ### 7. Metrics
 
