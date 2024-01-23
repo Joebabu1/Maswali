@@ -50,7 +50,7 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Analysis%20Report%20-%20MQM
 
 ### 6. Domain-Driven Design (DDD)
 
-https://github.com/Joebabu1/Maswali/blob/master/Docs/DDD - MaswaliYote Quiz Management System.pdf
+https://github.com/Joebabu1/Maswali/blob/master/Docs/DDD%20-%20MaswaliYote%20Quiz%20Management%20System.pdf
 
 ### 7. Metrics
 
@@ -58,11 +58,14 @@ https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screen
 
 ### 8. Clean Code Development
 
-https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Development%20Report.pdf
+Example from the code: https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Development%20Report.pdf
+
 
 Click here for Clean Code Cheatsheet: https://github.com/Joebabu1/Maswali/blob/master/Docs/Clean%20Code%20Cheatsheet.pdf
 
 ### 9. Build Management and CI/CD
+
+Jenkins was used for Continuous Integration and Continuous Development (CICD)
 
 https://github.com/Joebabu1/Maswali/blob/master/Docs/Build%20Management%20screenshots.pdf
 
